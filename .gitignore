@@ -31,5 +31,5 @@ Thumbs.db
 *.crt
 *.csr
 /node_modules/
-/dist/
+/dist-REMOVED/
 package-lock.json
